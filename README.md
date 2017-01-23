@@ -8,5 +8,5 @@ No.Presensi = 12 <br>
 NIS = 4717/1436.070 <br>
 Sekolah = SMK TELKOM MALANG <br>
 
-![rv2 1](https://cloud.githubusercontent.com/assets/21336880/20035233/bc436e42-a40e-11e6-9593-001f9ccc1990.jpg)
-![rv2 2](https://cloud.githubusercontent.com/assets/21336880/20035244/235f04a6-a40f-11e6-8009-c6cb672b9e33.jpg)
+![rv2 1](https://cloud.githubusercontent.com/assets/21336880/22195793/55707b78-e17c-11e6-9134-04bae3abaaeb.png)
+![rv2 2](https://cloud.githubusercontent.com/assets/21336880/22195825/7f844d90-e17c-11e6-8bbe-a69e0018c91d.jpg)
